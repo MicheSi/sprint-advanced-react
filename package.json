@@ -4,9 +4,13 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "@testing-library/jest-dom": "^5.0.0",
+    "@testing-library/react": "^9.4.0",
     "body-parser": "^1.18.3",
+    "bootstrap": "^4.4.1",
     "cors": "^2.8.3",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "reactstrap": "^8.3.2"
   },
   "devDependencies": {
     "nodemon": "^1.17.2"
